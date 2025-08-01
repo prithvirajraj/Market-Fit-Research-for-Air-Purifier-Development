@@ -1,0 +1,13 @@
+City,date_type,Average AQI
+Bengaluru,weekdays,75.5118306351183
+Bengaluru,weekend,73.32298136645963
+Chennai,weekdays,74.43445692883896
+Chennai,weekend,72.9472049689441
+Delhi,weekdays,206.373599003736
+Delhi,weekend,206.5248447204969
+Hyderabad,weekdays,80.89539227895392
+Hyderabad,weekend,81.30434782608695
+Kolkata,weekdays,101.3225404732254
+Kolkata,weekend,103.7888198757764
+Mumbai,weekdays,105.7281795511222
+Mumbai,weekend,106.44409937888199
