@@ -39,5 +39,3 @@ To identify:
 - **Power BI** / **Tableau** for dashboard visualization
 - **Excel** for initial data cleaning and organization
 
-## 📂 Folder Structure
-
